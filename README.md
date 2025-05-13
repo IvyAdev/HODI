@@ -41,18 +41,31 @@ Python 3.6+: Make sure you have Python installed. If not, download and install i
 
 Setting Up the Project
 Clone this repository to your local machine:
+
 git clone https://github.com/IvyAdev/Hodi.git
+
 Navigate to the project directory:
+
 cd Hodi
+
 (Optional) Create a virtual environment:
+
 python -m venv venv
+
 Install the required dependencies:
+
 pip install -r requirements.txt
+
 Run the application:
+
 python hodi_app.py
+
 Usage
+
 Start the app by running the following command:
+
 python hodi_app.py
+
 Follow the on-screen prompts to start learning Swahili!
 
 Contributing
